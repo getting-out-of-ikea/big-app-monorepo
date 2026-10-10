@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# file d'esempio con i soli nomi delle variabili
+!.env.reference
